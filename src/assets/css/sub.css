@@ -1,0 +1,119 @@
+.add-sub-btn {
+
+    float: right;
+    font-weight: 600;
+    font-size: 16px;
+    color: #FFFFFF;
+    padding: 8px 40px;
+    background: #1E3A8A;
+    border-radius: 4px;
+    border: none;
+
+}
+
+.table-inactive {
+
+    background: #FFF2E6;
+    padding: 10px;
+    font-size: 14px !important;
+    text-align: center;
+    font-weight: 500 !important;
+    border-radius: 8px !important;
+    color: #EA3A3A !important;
+}
+
+.table-table-inactive-complete {
+
+    background: #B7F9D3;
+    padding: 10px;
+    font-size: 14px !important;
+    text-align: center;
+    font-weight: 500 !important;
+    border-radius: 8px !important;
+    color: #48BB78 !important;
+}
+
+.subscriber-table-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.table-responsive .name-search {
+    padding: 4px 10px 4px 10px;
+    background: #FFFFFF;
+    border-radius: 4px;
+    border: none;
+    margin-top: 8px;
+    outline: none;
+}
+
+.table-responsive .adj-search {
+    padding: 4px 10px 4px 10px;
+    background: #FFFFFF;
+    border-radius: 4px;
+    border: none;
+    margin-top: 8px;
+    outline: none;
+}
+
+.table-responsive .dob-search {
+    padding: 4px 10px 4px 10px;
+    background: #FFFFFF;
+    border-radius: 4px;
+    border: none;
+    margin-top: 8px;
+    outline: none;
+}
+
+.table-responsive .min-search,
+.max-search {
+    width: 50%;
+    padding: 4px 10px 4px 10px;
+    background: #FFFFFF;
+    border-radius: 4px;
+    border: none;
+    margin-top: 8px;
+    outline: none;
+}
+
+
+.table-responsive select {
+    padding: 4px 10px 4px 10px;
+    background: #FFFFFF;
+    border-radius: 4px;
+    border: none;
+    margin-top: 8px;
+    outline: none;
+}
+
+.subs-table th {
+    font-family: 'Manrope' !important;
+    font-weight: 500 !important;
+    font-size: 13px !important;
+    line-height: 21px !important;
+    color: #606060 !important;
+}
+
+.menuicon-rotate img {
+    transform: rotate(180deg);
+}
+
+
+.wrap-in-scroll {
+    height: 80vh;
+    overflow: scroll;
+}
+
+.wrap-in-scroll::-webkit-scrollbar {
+    width: 0px;
+    height: 0;
+  }
+  .load-more-btn {
+    background: #39BCC0;
+    border: none;
+    border-radius: 8px;
+    padding: 4px 30px;
+    color: #fff;
+    font-family: 'Manrope' !important;
+}
